@@ -1,0 +1,1 @@
+# wsbi-trading-strategy
